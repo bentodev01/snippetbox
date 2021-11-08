@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/akileshsethu/snippetbox/pkg/models/mock"
+	"github.com/bentodev01/snippetbox/pkg/models/mock"
 	"github.com/golangcollege/sessions"
 )
 

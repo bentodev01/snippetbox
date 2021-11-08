@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/akileshsethu/snippetbox/pkg/forms"
-	"github.com/akileshsethu/snippetbox/pkg/models"
+	"github.com/bentodev01/snippetbox/pkg/forms"
+	"github.com/bentodev01/snippetbox/pkg/models"
 )
 
 func (app *application) home(w http.ResponseWriter, r *http.Request) {

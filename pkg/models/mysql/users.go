@@ -5,7 +5,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/akileshsethu/snippetbox/pkg/models"
+	"github.com/bentodev01/snippetbox/pkg/models"
 	"github.com/go-sql-driver/mysql"
 	"golang.org/x/crypto/bcrypt"
 )

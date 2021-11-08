@@ -1,4 +1,4 @@
-module github.com/akileshsethu/snippetbox
+module github.com/bentodev01/snippetbox
 
 go 1.17
 
